@@ -19,6 +19,8 @@ flowcontainer是基于python3的网络流量基本信息提取库，以方便完
 ### 神经网络模型
 
 - FS-Net
+
+  [https://doi.org/10.1109/infocom.2019.8737507](https://doi.org/10.1109/infocom.2019.8737507)
   
   Liu, C., He, L., Xiong, G., Cao, Z., & Li, Z. (2019, April). Fs-net: A flow sequence network for encrypted traffic classification. In IEEE INFOCOM 2019-IEEE Conference On Computer Communications (pp. 1171-1179). IEEE.
 
@@ -29,22 +31,32 @@ flowcontainer是基于python3的网络流量基本信息提取库，以方便完
   Shen, M., Zhang, J., Zhu, L., Xu, K., & Du, X. (2021). Accurate decentralized application identification via encrypted traffic analysis using graph neural networks. IEEE Transactions on Information Forensics and Security, 16, 2367-2380.
   
 - Deep Fingerprinting
+
+  [https://dl.acm.org/doi/abs/10.1145/3243734.3243768](https://dl.acm.org/doi/abs/10.1145/3243734.3243768)
   
   Sirinam, P., Imani, M., Juarez, M., & Wright, M. (2018, October). Deep fingerprinting: Undermining website fingerprinting defenses with deep learning. In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (pp. 1928-1943).
 
 - SDAE/LSTM/CNN
+
+  [https://arxiv.org/pdf/1708.06376.pdf](https://arxiv.org/pdf/1708.06376.pdf)
   
   Rimmer, V., Preuveneers, D., Juarez, M., Van Goethem, T., & Joosen, W. Automated Website Fingerprinting through Deep Learning.
 
 - Beauty
+
+  [https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schuster.pdf](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schuster.pdf)
   
   Schuster, R., Shmatikov, V., & Tromer, E. (2017). Beauty and the burst: Remote identification of encrypted video streams. In 26th USENIX Security Symposium (USENIX Security 17) (pp. 1357-1374).
 
 - AppNet
+
+  [https://doi.org/10.1109/infocomwkshps50562.2020.9162891](https://doi.org/10.1109/infocomwkshps50562.2020.9162891)
   
   Wang, X., Chen, S., & Su, J. (2020, July). App-net: A hybrid neural network for encrypted mobile traffic classification. In IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 424-429). IEEE.
 
 - MIMETIC
+
+  [https://www.sciencedirect.com/science/article/pii/S1389128619304669](https://www.sciencedirect.com/science/article/pii/S1389128619304669)
   
   Aceto, G., Ciuonzo, D., Montieri, A., & Pescapè, A. (2019). MIMETIC: Mobile encrypted traffic classification using multimodal deep learning. Computer networks, 165, 106944.
 
@@ -52,17 +64,25 @@ flowcontainer是基于python3的网络流量基本信息提取库，以方便完
 
 - CUMUL
 
+  [https://doi.org/10.14722/ndss.2016.23477](https://doi.org/10.14722/ndss.2016.23477)
+
   Panchenko, A., Lanze, F., Pennekamp, J., Engel, T., Zinnen, A., Henze, M., & Wehrle, K. (2016, February). Website Fingerprinting at Internet Scale. In NDSS.
 
 - AppScanner
+
+  [https://ieeexplore.ieee.org/abstract/document/7467370/](https://ieeexplore.ieee.org/abstract/document/7467370/)
 
   Taylor, V. F., Spolaor, R., Conti, M., & Martinovic, I. (2016, March). Appscanner: Automatic fingerprinting of smartphone apps from encrypted network traffic. In 2016 IEEE European Symposium on Security and Privacy (EuroS&P) (pp. 439-454). IEEE.
 
 - BIND
 
+  [https://dl.acm.org/doi/abs/10.1145/2991079.2991123](https://dl.acm.org/doi/abs/10.1145/2991079.2991123)
+
   Al-Naami, K., Chandra, S., Mustafa, A., Khan, L., Lin, Z., Hamlen, K., & Thuraisingham, B. (2016, December). Adaptive encrypted traffic fingerprinting with bi-directional dependence. In Proceedings of the 32nd Annual Conference on Computer Security Applications (pp. 177-188).
 
 - RDP
+
+  [https://doi.org/10.1109/IPCCC47392.2019.8958721](https://doi.org/10.1109/IPCCC47392.2019.8958721)
 
   Jiang, M., Gou, G., Shi, J., & Xiong, G. (2019, October). I know what you are doing with remote desktop. In 2019 IEEE 38th International Performance Computing and Communications Conference (IPCCC) (pp. 1-7). IEEE.
 
@@ -72,12 +92,14 @@ flowcontainer是基于python3的网络流量基本信息提取库，以方便完
 
 ## 1. 马萨诸塞大学系列
 
-http://traces.cs.umass.edu/index.php/Network/Network 系列：
-这个网站提供了该学院很多数据集，这些数据集是他们发表论文时提取的，然后公开出来。
+http://traces.cs.umass.edu/index.php/Network/Network 
+
+马萨诸塞大学系列系列：这个网站提供了该学院很多数据集，这些数据集是他们发表论文时提取的，然后公开出来。
 
 ### 1.1 WebIdent 2 Traces
 
 数据集描述：
+
 A collection of traces of web requests and responses over an encrypted SSH tunnel. The collection spans traces of connections to 2000 sites, collected four times a day over several months from February 2006 through April 2006. Each connection was encrypted; the traces include only the TCP headers, and not the payload.
 
 2000个网站的SSH隧道上SSL连接的流量，只有TCP 头，PCAP大约2.5G 。
@@ -339,10 +361,4 @@ abstract = {Identifying mobile applications (apps) from encrypted network traffi
 ```
 
 
-
-
-
-
-
-————————————————
-原文链接：https://blog.csdn.net/jmh1996/article/details/90666499
+> 基于[原文链接](https://blog.csdn.net/jmh1996/article/details/90666499)修改。
