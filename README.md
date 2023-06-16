@@ -286,14 +286,14 @@ Defacement URLs: More than 45,450 URLs belong to Defacement URL category. They a
 
 7大类网络服务，各自都有VPN和非VPN的流量：We captured a regular session and a session over VPN, therefore we have a total of 14 traffic categories: VOIP, VPN-VOIP, P2P, VPN-P2P, etc.
 
-<img src="./images/ISCX-VPN-NonVPN-2016.png" alt="image-20230527165849002" style="zoom:25%;" /><img src="./images/ISCX-VPN-NonVPN-2016-.png" alt="image-20230527165849002" style="zoom:25%;" />
+<img src="./images/ISCX-VPN-NonVPN-2016.png" alt="image-20230527165849002" width="250px"/><img src="./images/ISCX-VPN-NonVPN-2016-.png" alt="image-20230527165849002" width="250px"/>
 
 ## 13. Stratosphere IPS数据集
 
 https://www.stratosphereips.org/datasets-overview
 这个IPS有提供比较多的数据集，更多是僵尸网络的数据集。
 
-<img src="./images/IPSDatasets.png" alt="image-20230527170957349" style="zoom:20%;" />
+<img src="./images/IPSDatasets.png" alt="image-20230527170957349" width="300px"/>
 
 ## 14. mirage数据集
 
@@ -303,7 +303,7 @@ https://www.stratosphereips.org/datasets-overview
 
 以及整条流的一些统计信息。
 
-<img src="./images/mirageDatasets.png" alt="MirageDatesets" style="zoom:20%;" />
+<img src="./images/mirageDatasets.png" alt="MirageDatesets" width="500px"/>
 
 论文地址：http://wpage.unina.it/antonio.montieri/pubs/MIRAGE_ICCCS_2019.pdf
 数据集网址：http://traffic.comics.unina.it/mirage/
