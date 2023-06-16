@@ -332,7 +332,7 @@ https://drive.google.com/drive/folders/1Pvev0hJ82usPh6dWDlz7Lv8L6h3JpWhE
 
 5个Google App，每个app有数百条流。
 
-<img src="./images/QuicDatasets.png" alt="MirageDatesets" style="zoom:20%;" />
+<img src="./images/QuicDatasets.png" alt="MirageDatesets" width="500px"/>
 
 论文及github地址：https://github.com/jmhIcoding/Semi-supervised-Learning-QUIC-
 
