@@ -176,7 +176,7 @@ http://home.cse.ust.hk/~taow/wf/data/
 
 有100多个类别，每个类别有100个左右的trace。
 
-<img src="./images/TorTrace.png" alt="在这里插入图片描述" style="zoom:50%;" />
+<img src="./images/TorTrace.png" alt="在这里插入图片描述" style="zoom:30%;" />
 
 http://home.cse.ust.hk/~taow/wf/data/walkiebatch-defended.zip 是使用walkie-talkie手段构造的逃逸样本。
 
@@ -210,7 +210,7 @@ The Cross Platform dataset [51] consists of user-generated data for 215 Android 
 
 这个数据集有pcap文件。数据集有大约8个G
 
-![在这里插入图片描述](./images/CrossPlatform.png)
+<img src="./images/CrossPlatform.png" alt="在这里插入图片描述" style="zoom:25%;" />
 
 数据下载地址：https://drive.google.com/drive/folders/1cmG_5FIAh1DOGPI9el1K5WD9fUIpfw-x
 
@@ -232,7 +232,7 @@ https://www.unb.ca/cic/datasets/
 
 还有TOR的，这个可以！！！
 
-<img src="./images/CICDatasets.png" alt="在这里插入图片描述" style="zoom:33%;" />
+<img src="./images/CICDatasets.png" alt="在这里插入图片描述" style="zoom:25%;" />
 
 ### 12.1. Android 恶意软件流量
 
@@ -251,7 +251,8 @@ Our samples come from 42 unique malware families.
 数据有426个恶意软件，5000多个正常软件的流量。
 
 这些恶意软件可以分为4大类，共42个家族。
-<img src="./images/CICMalAnal2017.png" alt="CICMalAnal2017" style="zoom:50%;" />
+
+<img src="./images/CICMalAnal2017.png" alt="CICMalAnal2017" style="zoom:25%;" />
 
 ### 12.2 Investigation of the Android Malware (CICInvesAndMal2019)
 这个数据集是对上面这个数据集的丰富，主要是把以下信息加进去了：
@@ -285,16 +286,14 @@ Defacement URLs: More than 45,450 URLs belong to Defacement URL category. They a
 
 7大类网络服务，各自都有VPN和非VPN的流量：We captured a regular session and a session over VPN, therefore we have a total of 14 traffic categories: VOIP, VPN-VOIP, P2P, VPN-P2P, etc.
 
-<img src="./images/ISCX-VPN-NonVPN-2016.png" alt="image-20230527165849002" style="zoom:50%;" />
-
-<img src="./images/ISCX-VPN-NonVPN-2016-.png" alt="image-20230527165849002" style="zoom:50%;" />
+<img src="./images/ISCX-VPN-NonVPN-2016.png" alt="image-20230527165849002" style="zoom:25%;" /><img src="./images/ISCX-VPN-NonVPN-2016-.png" alt="image-20230527165849002" style="zoom:25%;" />
 
 ## 13. Stratosphere IPS数据集
 
 https://www.stratosphereips.org/datasets-overview
 这个IPS有提供比较多的数据集，更多是僵尸网络的数据集。
 
-<img src="./images/IPSDatasets.png" alt="image-20230527170957349" style="zoom:33%;" />
+<img src="./images/IPSDatasets.png" alt="image-20230527170957349" style="zoom:20%;" />
 
 ## 14. mirage数据集
 
@@ -304,7 +303,7 @@ https://www.stratosphereips.org/datasets-overview
 
 以及整条流的一些统计信息。
 
-<img src="./images/mirageDatasets.png" alt="MirageDatesets" style="zoom:33%;" />
+<img src="./images/mirageDatasets.png" alt="MirageDatesets" style="zoom:20%;" />
 
 论文地址：http://wpage.unina.it/antonio.montieri/pubs/MIRAGE_ICCCS_2019.pdf
 数据集网址：http://traffic.comics.unina.it/mirage/
@@ -333,7 +332,7 @@ https://drive.google.com/drive/folders/1Pvev0hJ82usPh6dWDlz7Lv8L6h3JpWhE
 
 5个Google App，每个app有数百条流。
 
-![image-20230527171501045](./images/QuicDatasets.png)
+<img src="./images/QuicDatasets.png" alt="MirageDatesets" style="zoom:20%;" />
 
 论文及github地址：https://github.com/jmhIcoding/Semi-supervised-Learning-QUIC-
 
