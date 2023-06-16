@@ -176,7 +176,7 @@ http://home.cse.ust.hk/~taow/wf/data/
 
 有100多个类别，每个类别有100个左右的trace。
 
-<img src="./images/TorTrace.png" alt="在这里插入图片描述" width="300px" />
+<img src="./images/TorTrace.png" alt="在这里插入图片描述" width="450px" />
 
 http://home.cse.ust.hk/~taow/wf/data/walkiebatch-defended.zip 是使用walkie-talkie手段构造的逃逸样本。
 
@@ -210,7 +210,7 @@ The Cross Platform dataset [51] consists of user-generated data for 215 Android 
 
 这个数据集有pcap文件。数据集有大约8个G
 
-<img src="./images/CrossPlatform.png" alt="在这里插入图片描述" width="300px"/>
+<img src="./images/CrossPlatform.png" alt="在这里插入图片描述" width="500px"/>
 
 数据下载地址：https://drive.google.com/drive/folders/1cmG_5FIAh1DOGPI9el1K5WD9fUIpfw-x
 
